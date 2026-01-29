@@ -417,6 +417,9 @@
             .burger {
                 display: flex;
             }
+            .logo-img {
+  height: 65px;
+}
 
             .nav-links {
                 position: absolute;

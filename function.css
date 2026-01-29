@@ -484,7 +484,9 @@
                 box-shadow: 0 10px 20px rgba(0,0,0,0.1);
                 margin-right: 0;
             }
-
+.logo-img {
+  height: 65px;
+}
             .nav-links.active {
                 display: flex;
             }
@@ -595,5 +597,7 @@
     .room-description {
         font-size: 13px;
     }
- 
+ .logo-img {
+  height: 65px;
+}
         }
