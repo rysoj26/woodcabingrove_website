@@ -258,12 +258,12 @@ html {
 }
 
 .arrow {
-  background: rgba(255, 255, 255, 0.3);
+ 
   border: none;
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  color: white;
+  color: black;
   font-size: 2rem;
   cursor: pointer;
   backdrop-filter: blur(5px);
@@ -274,7 +274,8 @@ html {
 }
 
 .arrow:hover {
-  background: rgba(255, 255, 255, 0.6);
+  background: #ba8452;
+  color: white;
   transform: scale(1.1);
 }
 
@@ -1091,7 +1092,8 @@ section {
 }
 
 .arrow-btn:hover {
-  color: #fff;
+  color: white;
+  background-color: #ba8452;
   transform: scale(1.1);
 }
 

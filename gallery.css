@@ -200,7 +200,7 @@
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
-            background: rgba(255, 255, 255, 0.9);
+            background: white;
             border: none;
             width: 45px;
             height: 45px;
@@ -216,7 +216,8 @@
         }
 
         .slider-arrow:hover {
-            background: white;
+            background: #BA8452;
+            color: white;
         }
 
         .slider-prev {
